@@ -1,29 +1,29 @@
 body {
-    font-family: arial;
+  font-family: arial;
 }
 
 #container {
-    width: 380px;
-    margin: 0 auto;
+  width: 380px;
+  margin: 0 auto;
 }
 
-h1 {
+/* h1 {
     text-indent: -9999px;
     background: url(../images/logo.gif) no-repeat;
     width: 250px;
     height: 70px;
     margin-left: 65px;
-}
+} */
 
 #container p {
-    text-align: justify;
-    line-height: 1.3em;
+  /* text-align: justify; */
+  line-height: 1.3em;
 }
 
 aside p {
-    font-size: .7em;
+  font-size: 0.7em;
 }
 
 a {
-    color: #2a6496;
+  color: #2a6496;
 }
